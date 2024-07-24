@@ -1,0 +1,10 @@
+/* this is the styling for the socials over on the authors UNDER THE ABOUT PAGE*/
+
+.author:hover .showAllSocials{
+    left: 5px;
+    transition: all 0.5s ease-in-out;
+}
+
+label{
+    font-size: small;
+}
